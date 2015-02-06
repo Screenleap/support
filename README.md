@@ -1,12 +1,16 @@
 # Screenleap Support
 
-Welcome to the Screenleap issues track and wiki. From this page you can report issues related to the Screenleap and track their progress. Please check out our wiki for answers to general support and troubleshooting issues.
+Welcome to the Screenleap issue tracker and wiki. 
+
+From this page you can report and track issues related to the Screenleap product. You can also get answers to common support issues in our wiki.
 
 # Issues
 
 Add user-reported issues that needs to be addressed by the engineering team to this repository as issues. Please include the related ticket numbers when creating the issue so that we can notify the affected users when the issue has been resolved.
 
 # Wiki
+
+The wiki provides solutions to common problems related to the Screenleap product.
 
 ## Troubleshooting
 
