@@ -1,6 +1,6 @@
 # Screenleap Support
 
-Welcome to the Screenleap issue tracker and wiki. 
+Welcome to the Screenleap issue tracker and public wiki. 
 
 From this page you can report and track issues related to the Screenleap product. You can also get answers to common support issues in our wiki.
 
