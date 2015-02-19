@@ -12,6 +12,10 @@ Add user-reported issues that needs to be addressed by the engineering team to t
 
 The wiki provides solutions to common problems related to the Screenleap product.
 
+## API
+
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Components">API - Windows App Components</a>
+
 ## Troubleshooting
 
 <a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
