@@ -16,6 +16,10 @@ The wiki provides solutions to common problems related to the Screenleap product
 
 <a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Components">API - Windows App Components</a>
 
+## Screen Share
+
+<a href="https://github.com/Screenleap/support/wiki/Custom-Protocol-Handler">Custom Protocol Handler</a>
+
 ## Troubleshooting
 
 <a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
