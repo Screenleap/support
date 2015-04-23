@@ -20,6 +20,10 @@ The wiki provides solutions to common problems related to the Screenleap product
 
 <a href="https://github.com/Screenleap/support/wiki/Custom-Protocol-Handler">Custom Protocol Handler</a>
 
+## Viewer
+
+<a href="https://github.com/Screenleap/support/wiki/Viewer">Viewer</a>
+
 ## Troubleshooting
 
 <a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
