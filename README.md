@@ -22,7 +22,7 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ## Testing
 
-<a href="https://github.com/Screenleap/support/wiki/Uninstall-Native-Apps">Uninstalling Presenter Apps</a>
+<a href="https://github.com/Screenleap/support/wiki/Uninstall-Presenter-Apps">Uninstalling Presenter Apps</a>
 
 ## Troubleshooting
 
