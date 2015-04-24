@@ -8,7 +8,7 @@ From this page you can report and track issues related to the Screenleap product
 
 Add user-reported issues that needs to be addressed by the engineering team to this repository as issues. Please include the related ticket numbers when creating the issue so that we can notify the affected users when the issue has been resolved.
 
-# Wiki
+# <a href="https://github.com/Screenleap/support/wiki">Wiki</a>
 
 The wiki provides solutions to common problems related to the Screenleap product.
 
