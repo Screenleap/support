@@ -20,6 +20,10 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 <a href="https://github.com/Screenleap/support/wiki/Custom-Protocol-Handler">Custom Protocol Handler</a>
 
+## Testing
+
+<a href="https://github.com/Screenleap/support/wiki/Uninstall-Native-Apps">Uninstalling Native Apps</a>
+
 ## Troubleshooting
 
 <a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
