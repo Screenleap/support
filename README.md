@@ -14,22 +14,37 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ## API
 
-<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Components">API - Windows App Components</a>
+***
 
-## Screen Share
+[[Windows App Components|API: Windows-App-Components]]
 
-<a href="https://github.com/Screenleap/support/wiki/Custom-Protocol-Handler">Custom Protocol Handler</a>
-
-## Testing
-
-<a href="https://github.com/Screenleap/support/wiki/Uninstall-Presenter-Apps">Uninstalling Presenter Apps</a>
+[[Windows App Installation Behavior|API: Windows-App-Installation-Behavior]]
 
 ## Troubleshooting
 
-<a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
+***
 
-<a href="https://github.com/Screenleap/support/wiki/Mac-app-Troubleshooting-Guide">Mac App</a>
+### Guides by Issue or Error:
 
-<a href="https://github.com/Screenleap/support/wiki/Windows-App-Troubleshooting-Guide">Windows App</a>
+[[Firewall and Proxy Issues|Firewall and Proxy Issues]]
 
-<a href="https://github.com/Screenleap/support/wiki/Viewer-Troubleshooting-Guide">Viewer</a>
+[[Java plugin disabled (Chrome browser)|Enable NPAPI plugins in Chrome]]
+
+[[Unable to Start Screen Share|Unable to Start Screen Share]]
+
+### Presenter App Guides:
+
+[[Browser Extension|Browser Extension Troubleshooting Guide]]
+
+[[Java Applet|Java Applet Troubleshooting Guide]]
+
+[[Mac App|Mac App Troubleshooting Guide]]
+
+[[Windows App|Windows App Troubleshooting Guide]]
+
+### Uninstall Guide:
+[[Remove Presenter App|Uninstall Presenter Apps]]
+
+### Viewer Guide:
+
+[[Viewer Troubleshooting|Viewer Troubleshooting Guide]]
