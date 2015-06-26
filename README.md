@@ -16,9 +16,9 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ***
 
-[[Windows App Components|API: Windows-App-Components]]
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Components">API - Windows App Components</a>
 
-[[Windows App Installation Behavior|API: Windows-App-Installation-Behavior]]
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Installation-Behavior">API - Windows App Installation Behavior</a>
 
 ## Troubleshooting
 
@@ -26,25 +26,27 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ### Guides by Issue or Error:
 
-[[Firewall and Proxy Issues|Firewall and Proxy Issues]]
+<a href="https://github.com/Screenleap/support/wiki/Firewall-and-Proxy-Issues">Firewall and Proxy Issues</a>
 
-[[Java plugin disabled (Chrome browser)|Enable NPAPI plugins in Chrome]]
+<a href="https://github.com/Screenleap/support/wiki/Enable-NPAPI-plugins-in-Chrome">Java plugin disabled</a>
 
-[[Unable to Start Screen Share|Unable to Start Screen Share]]
+<a href="https://github.com/Screenleap/support/wiki/Unable-to-Start-Screen-Share">Unable to Start Screen Share</a>
+
 
 ### Presenter App Guides:
 
-[[Browser Extension|Browser Extension Troubleshooting Guide]]
+<a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
 
-[[Java Applet|Java Applet Troubleshooting Guide]]
+<a href="https://github.com/Screenleap/support/wiki/Java-Applet-Troubleshooting-Guide">Java Applet Troubleshooting Guide</a>
 
-[[Mac App|Mac App Troubleshooting Guide]]
+<a href="https://github.com/Screenleap/support/wiki/Mac-app-Troubleshooting-Guide">Mac App</a>
 
-[[Windows App|Windows App Troubleshooting Guide]]
+<a href="https://github.com/Screenleap/support/wiki/Windows-App-Troubleshooting-Guide">Windows App</a>
 
 ### Uninstall Guide:
-[[Remove Presenter App|Uninstall Presenter Apps]]
+
+<a href="https://github.com/Screenleap/support/wiki/Uninstall-Presenter-Apps">Uninstalling Presenter Apps</a>
 
 ### Viewer Guide:
 
-[[Viewer Troubleshooting|Viewer Troubleshooting Guide]]
+<a href="https://github.com/Screenleap/support/wiki/Viewer-Troubleshooting-Guide">Viewer</a>
