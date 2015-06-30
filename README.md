@@ -28,7 +28,9 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 <a href="https://github.com/Screenleap/support/wiki/Firewall-and-Proxy-Issues">Firewall and Proxy Issues</a>
 
-<a href="https://github.com/Screenleap/support/wiki/Enable-NPAPI-plugins-in-Chrome">Java plugin disabled</a>
+<a href="https://github.com/Screenleap/support/wiki/Enable-NPAPI-plugins-in-Chrome">Java plugin disabled (Chrome browser)</a>
+
+<a href="https://github.com/Screenleap/support/wiki/No-prompt-to-Launch-Application">No Launch Application prompt (Chrome browser)</a>
 
 <a href="https://github.com/Screenleap/support/wiki/Unable-to-Start-Screen-Share">Unable to Start Screen Share</a>
 
