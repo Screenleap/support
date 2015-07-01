@@ -55,4 +55,8 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ### Where to Find:
 
-<a href="https://github.com/Screenleap/support/wiki/View-Network-Information">View Network Information</a>
+<a href="https://github.com/Screenleap/support/wiki/Show-Java-Console">Java Console</a>
+
+<a href="https://github.com/Screenleap/support/wiki/Find-Java-Version">Java Version</a>
+
+<a href="https://github.com/Screenleap/support/wiki/View-Network-Information">Network Information</a>
