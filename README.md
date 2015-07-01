@@ -52,3 +52,7 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 ### Viewer Guide:
 
 <a href="https://github.com/Screenleap/support/wiki/Viewer-Troubleshooting-Guide">Viewer</a>
+
+### Where to Find:
+
+<a href="https://github.com/Screenleap/support/wiki/View-Network-Information">View Network Information</a>
