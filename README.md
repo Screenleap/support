@@ -20,6 +20,8 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 <a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Installation-Behavior">API - Windows App Installation Behavior</a>
 
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Behavior">API - Windows App Behavior</a>
+
 ## Troubleshooting
 
 ***
