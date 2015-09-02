@@ -26,18 +26,7 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ***
 
-### Guides by Issue or Error:
-
-<a href="https://github.com/Screenleap/support/wiki/Firewall-and-Proxy-Issues">Firewall and Proxy Issues</a>
-
-<a href="https://github.com/Screenleap/support/wiki/Enable-NPAPI-plugins-in-Chrome">Java plugin disabled (Chrome browser)</a>
-
-<a href="https://github.com/Screenleap/support/wiki/No-prompt-to-Launch-Application">No Launch Application prompt (Chrome browser)</a>
-
-<a href="https://github.com/Screenleap/support/wiki/Unable-to-Start-Screen-Share">Unable to Start Screen Share</a>
-
-
-### Presenter App Guides:
+### Presenter Apps:
 
 <a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
 
@@ -47,13 +36,23 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 <a href="https://github.com/Screenleap/support/wiki/Windows-App-Troubleshooting-Guide">Windows App</a>
 
-### Uninstall Guide:
+### Uninstall:
 
 <a href="https://github.com/Screenleap/support/wiki/Uninstall-Presenter-Apps">Uninstalling Presenter Apps</a>
 
-### Viewer Guide:
+### Viewers:
 
 <a href="https://github.com/Screenleap/support/wiki/Viewer-Troubleshooting-Guide">Viewer</a>
+
+### Specific Issues:
+
+<a href="https://github.com/Screenleap/support/wiki/Firewall-and-Proxy-Issues">Firewall and Proxy Issues</a>
+
+<a href="https://github.com/Screenleap/support/wiki/Enable-NPAPI-plugins-in-Chrome">Java plugin disabled (Chrome browser)</a>
+
+<a href="https://github.com/Screenleap/support/wiki/No-prompt-to-Launch-Application">No Launch Application prompt (Chrome browser)</a>
+
+<a href="https://github.com/Screenleap/support/wiki/Unable-to-Start-Screen-Share">Unable to Start Screen Share</a>
 
 ### Where to Find:
 
