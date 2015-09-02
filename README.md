@@ -30,7 +30,7 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 <a href="https://github.com/Screenleap/support/wiki/Browser-Extension-Troubleshooting-Guide">Browser Extension</a>
 
-<a href="https://github.com/Screenleap/support/wiki/Java-Applet-Troubleshooting-Guide">Java Applet Troubleshooting Guide</a>
+<a href="https://github.com/Screenleap/support/wiki/Java-Applet-Troubleshooting-Guide">Java Applet</a>
 
 <a href="https://github.com/Screenleap/support/wiki/Mac-app-Troubleshooting-Guide">Mac App</a>
 
