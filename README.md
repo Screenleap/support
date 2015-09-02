@@ -16,11 +16,11 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 ***
 
-<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Components">API - Windows App Components</a>
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Components">Windows App Components</a>
 
-<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Installation-Behavior">API - Windows App Installation Behavior</a>
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Installation-Behavior">Windows App Installation Behavior</a>
 
-<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Behavior">API - Windows App Behavior</a>
+<a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Behavior">Windows App Behavior</a>
 
 ## Troubleshooting
 
