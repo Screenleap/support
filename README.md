@@ -22,6 +22,10 @@ The <a href="https://github.com/Screenleap/support/wiki">wiki</a> provides solut
 
 <a href="https://github.com/Screenleap/support/wiki/API:-Windows-App-Behavior">Windows App Behavior</a>
 
+## Testing
+
+<a href="https://github.com/Screenleap/support/wiki/Testing-Presenter-Apps">Presenter Apps</a>
+
 ## Troubleshooting
 
 ***
